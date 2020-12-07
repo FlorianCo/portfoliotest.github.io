@@ -1,0 +1,13 @@
+body{
+    /* background: linear-gradient(#A6FFEF, white); */
+    background: linear-gradient(#FF6565, white);
+    min-height: 100vh;
+    margin: 0;
+}
+header{
+    background-color: #FF5757;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
